@@ -1,0 +1,16 @@
+# Drude ff for choline acetate
+# units kJ/mol, a, deg 
+# kforces is in the form k/2 r_D^2
+# polarisabilties taken from DOI: 10.1039/c8cp01677a
+
+# type m_D/u q_D/e k_D alpha/A3 thole
+# choline
+C1 0.4 -2.44549 4184.0 1.985 2.6 
+C1A 0.4 -2.23769 4184.0 1.662 2.6 
+COL 0.4 -2.23769 4184.0 1.662 2.6 
+N4 0.4 -1.90774 4184.0 1.208 2.6 
+OH 0.4 -2.10233 4184.0 1.467 2.6 
+# acetate 
+CO2 0.4 -2.07710 4184.0 1.432 2.6 
+CTA 0.4 -2.44549 4184.0 1.985 2.6 
+O2 0.4 -1.85651 4184.0 1.144 2.6 
